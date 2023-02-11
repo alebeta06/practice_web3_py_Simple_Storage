@@ -1,1 +1,76 @@
-## Web3.py Simple Storage
+# Web3.py Simple Storage
+
+## Installing VSCode, Python, and Web3
+- Developer Bootcamp Setup Instructions (metamask, vscode, python, nodejs)
+- VSCode
+- VSCode Crash Course
+- Extensions
+- Short Cuts:
+- VSCode Shortcuts
+- Python
+- Install Troubleshooting
+- Terminal
+- Making a directory/Folder
+- Opening the folder up with VSCode
+- Creating a new file
+- Syntax Highlights
+- Remember to save!
+- Setting linting compile version
+- VSCode Solidity Settings
+- Formatting & Format on Save
+- Solidity Prettier
+- Python Black
+- pip
+## h2Our First Python Script with Web3.py - Deploying a Contract
+- Reading our solidity file
+- Running a Python Script in the Terminal
+- Linux Shortcuts
+- Compiling in Python
+- py-solc-x
+- compile_standard
+- Colorized Brackets
+- JSON ABI
+- Saving Compiled Code
+- Formatting JSON
+- Deploying in Python
+- Get Bytecode
+- Get ABI
+- Choose Blockchain to Deploy To
+- Local Ganache Chain
+- Ganache UI
+- Ganache Command Line
+- Web3.py
+- HTTP / RPC Provider
+- Private Keys MUST start with "0x"
+- Contract Object
+- Building a Transaction
+- Account Nonce
+- Calling "Constructor"
+- Transaction Parameters
+- Signing the Transaction
+- NEVER put your private key directly in your code
+- Setting Environment Variables (Linux)
+- Exported Environment Variables Only Last the Duration of the Shell/Terminal
+- Private Key PSA
+- .env file
+- .gitignore
+- Loading .env File in Python
+- python-dotenv
+- Viewing our Transaction / Deployment in Ganache
+- Waiting for Block Confirmations
+## h2Interacting with Our Contract in Python & Web3.py
+- 2 Things you always need
+- Contract Address
+- Contract ABI
+- Getting address from transaction receipt
+- Calling a view function with web3.py
+- Call vs Transact
+- Updating State with Web3.py
+- ganache-cli
+- Installing Ganache
+- Install Nodejs
+- Working with ganache-cli
+- Deploying to a testnet
+- Alchemy
+- Using Infura RPC URL / HTTP Provider
+- Chain Ids
